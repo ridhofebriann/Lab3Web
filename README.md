@@ -76,9 +76,9 @@
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict tampilan dan vscode list.png" width="700">
+<img src="tampilan dan vscode list.png" width="700">
 
-### 3. lab3_tabel.html — Membuat Table dan Penggabungan Sel
+### 3. lab3_tabel.html — Membuat Tabel dan Penggabungan Sel
 
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
@@ -130,7 +130,7 @@ Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict vscode1.png" width="700">
+<img src="tampilan dan vscode tabel.png" width="700">
 
 **Penjelasan:**
 
@@ -176,7 +176,7 @@ Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict vscode1.png" width="700">
+<img src="tabel dan penggabungan sel.png" width="700">
 
 ### 4. lab3_form.html — Membuat From
 
@@ -260,7 +260,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict vscode1.png" width="700">
+<img src="tampilan dan vscode from.png" width="700">
 
 **Pertanyaan dan Tugas**
 
@@ -269,6 +269,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 **Jawaban**
 
 **berikut codenya**
+```html
 <p>
           <label for="negara">Negara</label>
           <select id="negara" name="negara">
@@ -383,7 +384,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict vscode1.png" width="700">
+<img src="dropdown menu dan listbox dengan multiple selection..png" width="700">
 
 
 
