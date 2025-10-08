@@ -76,7 +76,7 @@
 
 **TAMPILAN dan VSCODE**
 
-<img src="pict vscode1.png" width="700">
+<img src="pict tampilan dan vscode list.png" width="700">
 
 ### 3. lab3_tabel.html — Membuat Table dan Penggabungan Sel
 
