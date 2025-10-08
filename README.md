@@ -1,5 +1,5 @@
 # Lab3Web
-# Praktikum 3: Membuat List, Table dan Form
+# Praktikum 3: Membuat List, Tabel dan Form
 ### NAMA : M. Ridho Febrian
 ### NIM : 312410500
 ### KELAS : TI.24.A5
@@ -197,7 +197,7 @@ Buat file baru dengan nama lab3_form.html seperti berikut.
 </html>
 ```
 
-**code membuat from**
+**code membuat Form**
 ```html
 <form action="proses.php" method="post">
   <fieldset>
